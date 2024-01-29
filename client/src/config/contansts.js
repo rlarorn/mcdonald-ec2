@@ -1,2 +1,2 @@
-export const API_URL = "http://www.kimjunnyoung.com/app1";
+export const API_URL = "http://3.131.43.198/app1";
 // export const API_URL = "http://localhost:8000"; 
